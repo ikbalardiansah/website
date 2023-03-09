@@ -1,4 +1,6 @@
 {
+  "name" : "portfolio",
+  "homepage" : "http://ikbalardiansah.site",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "emailjs-com": "^3.2.0",
