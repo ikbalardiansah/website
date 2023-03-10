@@ -1,6 +1,6 @@
 {
   "name" : "portfolio",
-  "homepage" : "http://ikbalardiansah.site",
+  "homepage" : "https://github.com/ikbalardiansah/portfolio.git",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "emailjs-com": "^3.2.0",
